@@ -27,7 +27,6 @@ function encriptar() {
   showConfirmButton: false,
   timer: 1500
 });
-  }
 }
 
 function desencriptar() {
